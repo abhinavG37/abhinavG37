@@ -27,7 +27,7 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 
 - 🎓 M.S. Robotics candidate at Northeastern University, Boston.
 
-- 👌 Skilled in MATLAB, C++ and Python.
+- 👌 Skilled in  C++, Python and MATLAB.
 
 - 💭 Passionate about design and autonomous control of electromechanical systems
 
@@ -49,21 +49,15 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 <table>
     <tr>
         <td>
-            <img alt='javascript' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> 
+            <img alt='C++' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/cpp.png'/>
         </td>
         <td>
-            <img alt='typescript' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png'/>
+            <img alt='python' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/python.png'/>
         </td>
         <td>
-            <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
+            <img alt='java' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/java.png'/>
         </td>
-        <td>
-            <img alt='java' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png'/>
-        </td>
-        <td>
-            <img alt='c++' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png'/>
-        </td>
-    </tr>
+   </tr>
 </table>
 
 ## Tools and Frameworks
@@ -71,36 +65,13 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 <table>
     <tr>
         <td>
-            <img alt='react' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/> 
+            <img alt='MATLAB' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/Matlab_Logo.png'/> 
         </td>
         <td>
-            <img alt='nextjs' width='32px' height='32px' src='https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67'/>
+            <img alt='ROS' width='64px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/ROS_Icon.png'/> 
         </td>
         <td>
-            <img alt='angular' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png'/>
-        </td>
-        <td>
-            <img alt='sass' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png'/>
-        </td>
-        <td>
-            <img alt='tailwind' width='32px' height='32px' src='https://avatars.githubusercontent.com/u/67109815?s=200&v=4'/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img alt='nodejs' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/> 
-        </td>
-        <td>
-            <img alt='express' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png'/>
-        </td>
-        <td>
-            <img alt='spring' width='32px' height='32px' src='https://avatars.githubusercontent.com/u/317776?s=200&v=4'/>
-        </td>
-        <td>
-            <img alt='mysql' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png'/>
-        </td>
-        <td>
-            <img alt='mongoDB' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>
+            <img alt='Linux' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/TUX.png'/>
         </td>
     </tr>
 </table>
