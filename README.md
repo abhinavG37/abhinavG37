@@ -39,7 +39,7 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 
 - 📫 I am always available at [gupta.abhi@northeastern.edu](mailto:gupta.abhi@northeastern.edu), or [abhinavgupta.1998@gmail.com](mailto:abhinavgupta.1998@gmail.com).
 
-- ⚽ <img alt="Hala Madrid" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
+- ⚽ <img alt="Hala Madrid" src="https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/real-madrid-hala-madrid.gif" height="50px" widht="100px" align="center">
 
 - 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
