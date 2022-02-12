@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Abhinav
+## Hola!👋 I'm Abhinav
 
 <!--
 **abhinavG37/abhinavG37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abhinav_Gupta-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)]https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)
-[![Twitter Badge](https://img.shields.io/badge/-tintin__das-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tintin_das/)](https://twitter.com/tintin_das/)
-[![Gmail Badge](https://img.shields.io/badge/-upamanyudas16-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:upamanyudas16@gmail.com)](mailto:upamanyudas16@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-tintindas.io-ff7139?style=flat&link=https://tintindas.github.io/)](https://tintindas.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhinav_Gupta-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)](https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)
+[![Gmail Badge](https://img.shields.io/badge/-gupta.abhi-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:gupta.abhi@northeastern.edu@gmail.com)](mailto:gupta.abhi@northeastern.edu)
+[![Website Badge](https://img.shields.io/badge/-abhinavg37-ff7139?style=flat&link=https://abhinavg37.wixsite.com/website)](https://abhinavg37.wixsite.com/website)
 
 Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather build what makes it a robot.
 
@@ -27,10 +26,10 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 </a>
 
 - 🌱 I’m currently learning Data Analysis and Visualisation.
-- 💼 Software Engineer at Natwest Group.
+- 💼 Robotics Graduate student at Northeastern University.
 - 🎓 Bachelor of Engineering from Netaji Subhas Institute of Technology (Delhi University).
 - 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
-- ⚽ <img alt="You'll Never Walk Alone | Liverpool Football Club Chant" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
+- ⚽ <img alt="Hala Madrid" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
 - 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
@@ -94,19 +93,5 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
         </td>
     </tr>
 </table>
-
----
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Real World Python 🐍: Environment Setup - pyenv](https://dev.to/tintindas/real-world-python-environmet-setup-pyenv-3c0o)
-- [Real World Python 🐍: Introduction](https://dev.to/tintindas/real-world-python-introduction-3km4)
-- [Uh Oh! I Cloned without Forking!](https://dev.to/tintindas/uh-oh-i-cloned-without-forking-2eaj)
-- [Adding Typescript to my existing Node + Express API - Part 2 - Directory Structure](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-2-directory-structure-376m)
-- [Adding Typescript to my existing Node + Express API - Part 1 - Set up](https://dev.to/tintindas/adding-typescript-to-my-existing-node-express-api-part-1-set-up-48io)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 P.S. - Do you have a dog/cat? Can I pet them?
