@@ -16,20 +16,31 @@ Here are some ideas to get you started:
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinav_Gupta-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)](https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)
-[![Gmail Badge](https://img.shields.io/badge/-gupta.abhi-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:gupta.abhi@northeastern.edu@gmail.com)](mailto:gupta.abhi@northeastern.edu)
+[![Gmail Badge](https://img.shields.io/badge/-gupta.abhi-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:gupta.abhi@northeastern.edu)](mailto:gupta.abhi@northeastern.edu)
 [![Website Badge](https://img.shields.io/badge/-abhinavg37-ff7139?style=flat&link=https://abhinavg37.wixsite.com/website)](https://abhinavg37.wixsite.com/website)
 
 Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather build what makes it a robot.
 
 <a href='https://undraw.co/'> 
-    <img align='right' alt='programmer' width=60% src='./undraw_web_developer_p3e5.svg' />
+    <img align='right' alt='programmer' width=60% src='./Illustration.svg' />
 </a>
 
-- 🌱 I’m currently learning Data Analysis and Visualisation.
-- 💼 Robotics Graduate student at Northeastern University.
-- 🎓 Bachelor of Engineering from Netaji Subhas Institute of Technology (Delhi University).
-- 📫 How to reach me: I am always available at [upamanyudas16@gmail.com](mailto:upamanyudas16@gmail.com). Or you could DM me [@tintin_das](https://twitter.com/tintin_das/). I will get back to you as soon as possible.
+- 🎓 M.S. Robotics candidate at Northeastern University, Boston.
+
+- 👌 Skilled in MATLAB, C++ and Python.
+
+- 💭 Passionate about design and autonomous control of electromechanical systems
+
+- 🌱 Working my way through ROS and its applications in the Robotics industry.
+
+- 🔭 Currently working on a C++ based stand-alone image feature detection system
+
+- 🔍 Looking for opportunities in the domain of autonomous control of Robotic systems
+
+- 📫 I am always available at [gupta.abhi@northeastern.edu](mailto:gupta.abhi@northeastern.edu), or [abhinavgupta.1998@gmail.com](mailto:abhinavgupta.1998@gmail.com).
+
 - ⚽ <img alt="Hala Madrid" src="https://media2.giphy.com/media/5WEzrY8ao8VlsgFwwx/giphy.gif" height="50px" widht="100px" align="center">
+
 - 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
@@ -94,4 +105,4 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
     </tr>
 </table>
 
-P.S. - Do you have a dog/cat? Can I pet them?
+
