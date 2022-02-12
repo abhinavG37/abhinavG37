@@ -41,7 +41,6 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 
 - ⚽ <img alt="Hala Madrid" src="https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/real-madrid-hala-madrid.gif" height="50px" widht="100px" align="center">
 
-- 👾 Fun Fact: It's canon that Spock is a descendant of Sherlock Holmes. ([Source](https://memory-alpha.fandom.com/wiki/Sherlock_Holmes))
 
 
 ## Languages
