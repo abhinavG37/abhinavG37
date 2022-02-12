@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhinav_Gupta-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)](https://www.linkedin.com/in/abhinav-gupta-37a7aa87/)
 [![Gmail Badge](https://img.shields.io/badge/-gupta.abhi-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:gupta.abhi@northeastern.edu)](mailto:gupta.abhi@northeastern.edu)
-<!-- [![Website Badge](https://img.shields.io/badge/-abhinavg37-ff7139?style=flat&link=https://abhinavg37.wixsite.com/website)](https://abhinavg37.wixsite.com/website) -->
+<!-- [![Website Badge](https://img.shields.io/badge/-abhinavg37-ff7139?style=flat&link=)]() -->
 
 Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather build what makes it a robot.
 
