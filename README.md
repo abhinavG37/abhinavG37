@@ -72,6 +72,12 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
         <td>
             <img alt='Linux' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/TUX.png'/>
         </td>
+        <td>
+            <img alt='LabVIEW' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/LABVIEW_IMAGE.png'/>
+        </td>
+        <td>
+            <img alt='Multisim' width='32px' height='32px' src='https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/MULTISIM.png'/>
+        </td>
     </tr>
 </table>
 
