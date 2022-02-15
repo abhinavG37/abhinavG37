@@ -37,7 +37,7 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 
 - 🔍 Looking for opportunities in the domain of autonomous control of Robotic systems
 
-- 📫 I am always available at [gupta.abhi@northeastern.edu](mailto:gupta.abhi@northeastern.edu), or [abhinavgupta.1998@gmail.com](mailto:abhinavgupta.1998@gmail.com).
+- 📫 I am always available at [gupta.abhi@northeastern.edu](mailto:gupta.abhi@northeastern.edu), or [abhinavgupta.1998@gmail.com](mailto:abhinavgupta1998@gmail.com).
 
 - ⚽ <img alt="Hala Madrid" src="https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/real-madrid-hala-madrid.gif" height="50px" widht="100px" align="center">
 
