@@ -41,7 +41,7 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
 
 - ⚽ <img alt="Hala Madrid" src="https://github.com/abhinavG37/abhinavG37/blob/main/.github/images/real-madrid-hala-madrid.gif" height="50px" widht="100px" align="center">
 
-
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavG37)](https://github.com/abhinavG37/github-readme-stats)
 
 ## Languages
 
