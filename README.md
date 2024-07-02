@@ -25,17 +25,13 @@ Hi, I'm **Abhinav Gupta**. I _read_, I _write_ and I _build_ robots, or rather b
     <img align='right' alt='programmer' width=60% src='./Illustration.svg' />
 </a>
 
-- 🎓 M.S. Robotics candidate at Northeastern University, Boston.
+- 🎓 M.S. Robotics Graduate from Northeastern University, Boston.
 
 - 👌 Skilled in  C++, Python and MATLAB.
 
 - 💭 Passionate about design and autonomous control of electromechanical systems
 
 - 🌱 Working my way through ROS and its applications in the Robotics industry.
-
-- 🔭 Currently working on a C++ based stand-alone image feature detection system
-
-- 🔍 Looking for opportunities in the domain of autonomous control of Robotic systems
 
 - 📫 I am always available at [gupta.abhi@northeastern.edu](mailto:gupta.abhi@northeastern.edu), or [abhinavgupta.1998@gmail.com](mailto:abhinavgupta1998@gmail.com).
 
