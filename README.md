@@ -1,7 +1,8 @@
 ## Hola!👋 I'm Abhinav
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhinavG37.abhinavG37"/>
+  <img src="https://api.visitorbadge.io/api/combined?path=abhinavG37.abhinavG37&labelColor=%232867b2&countColor=%23ffffff&style=flat" />
+  <br>
   <a href="https://www.linkedin.com/in/abhinav-gupta-37a7aa87/"><img src="https://img.shields.io/badge/-Abhinav_Gupta-2867b2?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:gupta.abhi@northeastern.edu"><img src="https://img.shields.io/badge/-gupta.abhi-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </div>
